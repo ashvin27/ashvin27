@@ -1,5 +1,17 @@
 # 💫 About Me:
-## 👋 About Me<br><br>- 🚀 **Lead Senior Software Engineer** with **10+ years of experience**.<br>- 🌐 **Expertise**: JavaScript, React, Node.js, HTML5, CSS3, and other web technologies.<br>- 🛠️ **Proficient in**: MERN stack, Express.js, Redux, Next.js, and modern web development practices.<br>- 💡 **Known for**: A strong "Get it Done" attitude and deep understanding of the **Software Development Life Cycle (SDLC)**.<br>- 🎯 **Key Skills**:<br>  - Full-Stack JavaScript development.<br>  - Frontend frameworks like **React**.<br>  - Backend frameworks like **Node.js** and **Express.js**.<br>  - Building responsive, **cross-browser compatible** web applications.<br>- 🌀 **Agile Experience**: Extensive working experience with **SAFe Agile methodology**.<br>- 👨‍🏫 **Leadership**: Skilled in team leadership, mentoring, and driving project success.<br>- 📈 **Continuous Learning**: Constantly improving knowledge in **TypeScript**, **SOLID principles**, and best software engineering practices.<br>- ⚙️ **DevOps Enthusiast**: Passionate about integrating **GitHub Actions**, CI/CD pipelines, and automation into development workflows.<br>
+## 👋 About Me
+- 🚀 **Lead Senior Software Engineer** with **10+ years of experience**.
+- 🌐 **Expertise**: JavaScript, React, Node.js, HTML5, CSS3, and other web technologies.
+- 🛠️ **Proficient in**: MERN stack, Express.js, Redux, Next.js, and modern web development practices.
+- 💡 **Known for**: A strong "Get it Done" attitude and deep understanding of the **Software Development Life Cycle (SDLC)**.
+- 🎯 **Key Skills**:
+    - Full-Stack JavaScript development.
+    - Frontend frameworks like **React**.
+    - Backend frameworks like **Node.js** and **Express.js**.
+    - Building responsive, **cross-browser compatible** web applications.
+- 🌀 **Agile Experience**: Extensive working experience with **SAFe Agile methodology**.
+- 👨‍🏫 **Leadership**: Skilled in team leadership, mentoring, and driving project success.
+- 📈 **Continuous Learning**: Constantly improving knowledge in **TypeScript**, **SOLID principles**, and best software engineering practices.- ⚙️ **DevOps Enthusiast**: Passionate about integrating **GitHub Actions**, CI/CD pipelines, and automation into development workflows.
 
 
 ## 🌐 Socials:
