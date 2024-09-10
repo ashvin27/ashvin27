@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## 👋 About Me
-- 🚀 **Lead Senior Software Engineer** with **10+ years of experience**.
+- 🚀 **Lead Senior Software Engineer** with **11+ years of experience**.
 - 🌐 **Expertise**: JavaScript, React, Node.js, HTML5, CSS3, and other web technologies.
 - 🛠️ **Proficient in**: MERN stack, Express.js, Redux, Next.js, and modern web development practices.
 - 💡 **Known for**: A strong "Get it Done" attitude and deep understanding of the **Software Development Life Cycle (SDLC)**.
