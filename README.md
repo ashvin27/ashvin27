@@ -10,7 +10,8 @@
     - Building responsive, **cross-browser compatible** web applications.
 - 🌀 **Agile Experience**: Extensive working experience with **SAFe Agile methodology**.
 - 👨‍🏫 **Leadership**: Skilled in team leadership, mentoring, and driving project success.
-- 📈 **Continuous Learning**: Constantly improving knowledge in **TypeScript**, **SOLID principles**, and best software engineering practices.- ⚙️ **DevOps Enthusiast**: Passionate about integrating **GitHub Actions**, CI/CD pipelines, and automation into development workflows.
+- 📈 **Continuous Learning**: Constantly improving knowledge in**TypeScript**, **SOLID principles**, and best software engineering practices.
+- ⚙️ **DevOps Enthusiast**: Passionate about integrating **GitHub Actions**, CI/CD pipelines, and automation into development workflows.
 
 
 ## 🌐 Socials:
